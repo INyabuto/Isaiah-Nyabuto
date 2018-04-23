@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524463046419.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FC6F1482",
+    "lastKnownWriteTime" : 1524488157,
+    "last_content_update" : 1524488157443,
+    "path" : "~/R/Isaiah-Nyabuto/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "240,13",
+        "scrollLine" : "222"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
